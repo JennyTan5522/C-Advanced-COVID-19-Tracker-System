@@ -1,0 +1,46 @@
+
+					     TTTTTTTTTTTTTTTTTTT                  
+					  TTTTTTTTTTTTTTTTTTTTTTTTT                  
+					 TTTTTTTTTTTTTTTTTTTTTTTTTTTT                  
+					TTTTTT                  TTTTTT      A     $$$$   &    &   C$$$$C
+					TTTTTTTTTTTTT    TTTTTTTTTTTTT     $ $    $   $  &    &  C           
+					TTTTTTTTTTTTT    TTTTTTTTTTTTT    $$A$$   $$R$$  &    &  C         
+					TTTTTTTTTTTTT    TTTTTTTTTTTTT   $     $  $    $  &&&&    C$$$$CC        
+					TTTTTTTTTTTTT    TTTTTTTTTTTTT              
+					 TTTTTTTTTTTT    TTTTTTTTTTTT    T A R U C    S E J A H T E R A    C O N T A C T - T R A C I N G    S Y S T E M
+					  TTTTTTTTTTT    TTTTTTTTTTT                   A D M I N    S U M M A R Y    R E P O R T 
+					   TTTTTTTTTTTTTTTTTTTTTTT                              T E L : 03-4145 0278
+					      TTTTTTTTTTTTTTTTT         
+
+
+
+																			Apr  2 2021  13:59:30
+
+						 S U M M A R Y    R E P O R T    O F    A D M I N    D E T A I L S    :
+		_______________________________________________________________________________________________________________________________________________________________
+		| 	 B r a n c h e s 	| 	  A g e 20-30   	| 	  A g e 30-40   	| 	  A g e 40-50   	||
+		| 				|     Male	|    Female     |     Male	|    Female     |     Male	|    Female     ||   T o t a l (By Branches)   |
+		_______________________________________________________________________________________________________________________________________________________________
+		|  Kuala Lumpur Main Campus     |        0	|        0	|        3	|        1	|        1	|        0	||	         5	       |
+		|  Penang Branch Campus   	|        0	|        1	|        0	|        4	|        0	|        1	||	         6	       |
+		|  Perak Branch Campus    	|        0	|        1	|        1	|        2	|        0	|        0	||	         4	       |
+		|  Johor Branch Campus    	|        0	|        0	|        0	|        0	|        1	|        0	||	         1	       |
+		|  Pahang Branch		|        0	|        0	|        0	|        0	|        1	|        1	||	         2	       |
+		|  Sabah Branch 		|        0	|        0	|        1	|        3	|        0	|        0	||	         4	       |
+		_______________________________________________________________________________________________________________________________________________________________
+		|    T O T A L (By Gender)	|        0 	|        2	|        5	|       10	|        3	|        2	||
+		==================================================================================================================================
+		|    T O T A L (By Age)   	|	        2		|	       15		|	        5		||
+		==================================================================================================================================
+
+
+
+		T o t a l   Male   :    8 
+		T o t a l   Female :   14 
+		T o t a l   ADMIN  :   22
+
+		From the table above, we can know that FEMALE is more than male about  6.  Beside, most of the admin are aged between 30 -  40.
+
+
+
+									   <<<<<<<< END OF REPORT >>>>>>>>
